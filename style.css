@@ -1,0 +1,29 @@
+body{
+    background-color: aliceblue;
+}
+main{
+    display: flex;
+    justify-content: center;
+    margin: 0px auto;
+    padding: 10% 20%;
+    
+}
+
+#input
+{
+    margin: 3% 1%;
+}
+#param
+{
+    margin-top: -10%;
+    display: flex;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    flex-direction: column;
+    background-color: rgb(238, 238, 238);
+    border: 2px solid black;
+    border-radius: 12px;
+    margin: -9% 20%;
+    /* font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; */
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
